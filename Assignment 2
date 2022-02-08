@@ -1,0 +1,8 @@
+Kilometre=int(inputinput('enter the length in kilometre')) 
+#convert1 kilometre to cm
+Centimeter=100000*kilometre;
+Print ('the length in centimeter', round(centimeter,(2))
+ 
+OUTPUT:
+Enter the length in kilometre:35
+The length in centimeter 3500000.00
