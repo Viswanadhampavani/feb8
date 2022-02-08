@@ -1,0 +1,15 @@
+a=15
+b=10
+Print(a<b) 
+Print(a>b) 
+Print(a<=b) 
+Print(a>=b) 
+Print(a==b) 
+Print(a!=b) 
+OUTPUT
+False
+True
+False
+True
+False
+True
